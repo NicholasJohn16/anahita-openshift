@@ -8,4 +8,3 @@ www/*
 !wwww/.gitignore
 config/development.yaml
 vendor/*
-
